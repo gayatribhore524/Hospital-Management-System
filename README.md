@@ -30,7 +30,7 @@ This project is designed to streamline the management of hospital operations wit
  🙋‍♂️ Patient Module
 - Register and Login
 - Book appointment with a doctor based on their Specialization
-- View and manage existing appointments
+- View appointments
 - Change password
 - Search functionality to view specialist details using navbar search
 
